@@ -159,5 +159,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support or inquiries, you can reach out to the development team:
 
-- Email: support@skyride.com
-- GitHub: [SkyRide Dispatch GitHub](https://github.com/yourusername/skyride-dispatch)
+- Email: adewale.ilesanmi001@gmail.com
+- GitHub: [Adewale GitHub]([https://github.com/yourusername/skyride-dispatch](https://github.com/Adewaleilesanmi001/))
