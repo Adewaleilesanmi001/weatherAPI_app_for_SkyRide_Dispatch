@@ -48,7 +48,7 @@ SkyRide Dispatch Hub helps urban bike couriers stay ahead of the weather with re
 2. **Create a virtual environment**:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scriptsctivate`
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
 3. **Install dependencies**:
